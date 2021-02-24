@@ -1,0 +1,7 @@
+total 24
+drwxrwxr-x 3 DAM-2 DAM-2 4096 nov 18 08:48 bin
+-rw-rw-r-- 1 DAM-2 DAM-2   39 nov 18 08:48 originalDescodificado.txt
+-rw-rw-r-- 1 DAM-2 DAM-2   39 nov 18 08:51 pruebaCodificado.txt
+-rw-rw-r-- 1 DAM-2 DAM-2   39 nov 18 08:51 pruebaDescodificado.txt
+-rw-rw-r-- 1 DAM-2 DAM-2   39 nov 18 08:48 prueba.txt
+drwxrwxr-x 3 DAM-2 DAM-2 4096 nov 18 08:48 src
